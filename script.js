@@ -8,11 +8,11 @@ while (konfirmsi) {
   var comp = Math.random();
 
   if (comp < 0.34) {
-    comp = "Batu" || "batu";
+    comp = "batu";
   } else if (comp >= 0.34 && comp < 0.67) {
-    comp = "Kertas" || "kertas";
+    comp = "kertas";
   } else {
-    comp = "Gunting" || "gunting";
+    comp = "gunting";
   }
 
   //Menentukan rules
