@@ -32,9 +32,9 @@ while (konfirmsi) {
     // } else {
     //   hasil = "KALAH";
     // }
-    hasil = comp == "batu" ? "Menang 😎" : "Kalah 🤣";
+    hasil = comp == "batu" ? "Menang 😎" : "Kalah 🤣🤣🤣🤣🤣";
   } else if (p == "gunting") {
-    hasil = comp == "batu" ? "Kalah 🤣🤣🤣🤣" : "Menang 😎";
+    hasil = comp == "batu" ? "Kalah 🤣🤣🤣🤣🤣" : "Menang 😎";
   } else {
     hasil = "harap memasukan pilihan yang benar!";
   }
